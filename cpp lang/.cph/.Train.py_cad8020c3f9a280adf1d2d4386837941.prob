@@ -1,0 +1,1 @@
+{"name":"Local: Train","url":"c:\\Users\\newbh\\OneDrive\\Documents\\cpp lang\\Train.py","tests":[{"id":1693756669039,"input":"7\n7 4 2 0 5 8 3\n4 0 0 1 3 1 3","output":"5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\newbh\\OneDrive\\Documents\\cpp lang\\Train.py","group":"local","local":true}

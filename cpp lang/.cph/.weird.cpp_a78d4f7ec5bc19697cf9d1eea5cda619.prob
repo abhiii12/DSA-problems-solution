@@ -1,0 +1,1 @@
+{"name":"Local: weird","url":"c:\\Users\\newbh\\OneDrive\\Documents\\cpp lang\\weird.cpp","tests":[{"id":1675486159842,"input":"3","output":"3 10 5 16 8 4 2 1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\newbh\\OneDrive\\Documents\\cpp lang\\weird.cpp","group":"local","local":true}

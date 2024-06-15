@@ -1,0 +1,1 @@
+{"name":"Local: python","url":"c:\\Users\\newbh\\OneDrive\\Documents\\cpp lang\\python.py","tests":[{"id":1684774020022,"input":"a=5\nb=7","output":"a=7\nb=5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\newbh\\OneDrive\\Documents\\cpp lang\\python.py","group":"local","local":true}
