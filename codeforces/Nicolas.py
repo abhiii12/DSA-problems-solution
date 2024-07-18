@@ -1,0 +1,7 @@
+n=int(input())
+l=list(map(int,input().split()))
+mx=max(l)
+mn=min(l)
+i=l.index(mx)
+j=l.index(mn)
+print(max(abs(i-0),abs(i-n+1),abs(j-0),abs(j-n+1)))
